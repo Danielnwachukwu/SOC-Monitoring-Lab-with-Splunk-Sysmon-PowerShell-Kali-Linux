@@ -112,25 +112,18 @@ Statistical analysis of security events
 
 ### Splunk Detection of Network Connection Events
 
-<img src="screenshots/Sysmon%20Network%20Connection%20Event%20Detection.png" width="1000">
 
 ---
 
 ### PowerShell Activity Monitoring with Splunk
 
-<img src="screenshots/PowerShell%20Activity%20Monitoring%20with%20Splunk.png" width="1000">
-
 ---
 
 ### Sysmon Operational Log Timechart
 
-<img src="screenshots/Sysmon%20Operational%20Log%20Timechart.png" width="1000">
-
 ---
 
 ### Splunk Sysmon Log Ingestion Verification
-
-<img src="screenshots/Splunk%20Sysmon%20Log%20Ingestion%20Verification.png" width="1000">
 
 ---
 
@@ -138,25 +131,17 @@ Statistical analysis of security events
 
 ### Encoded PowerShell Command Execution Simulation
 
-<img src="screenshots/Encoded%20PowerShell%20Command%20Execution%20Simulation.png" width="1000">
-
 ---
 
 ### HTTP Web Request Activity via PowerShell
-
-<img src="screenshots/HTTP%20Web%20Request%20Activity%20via%20PowerShell.png" width="1000">
 
 ---
 
 ### Kali Linux Nmap Enumeration Against Windows Host
 
-<img src="screenshots/Kali%20Linux%20Nmap%20Enumeration%20Against%20Windows%20Host.png" width="1000">
-
 ---
 
 ### Kali Linux to Windows Host Connectivity Verification
-
-<img src="screenshots/Kali%20Linux%20to%20Windows%20Host%20Connectivity%20Verification.png" width="1000">
 
 ---
 
@@ -164,25 +149,17 @@ Statistical analysis of security events
 
 ### Sysmon Event Timechart Analysis
 
-<img src="screenshots/Sysmon%20Event%20Timechart%20Analysis.png" width="1000">
-
 ---
 
 ### Sysmon Network Connection Event Correlation in Splunk
-
-<img src="screenshots/Sysmon%20Network%20Connection%20Event%20Correlation%20in%20Splunk.png" width="1000">
 
 ---
 
 ### DNS Resolution Activity Monitoring
 
-<img src="screenshots/DNS%20Resolution%20Activity%20Monitoring.png" width="1000">
-
 ---
 
 ### Network Traffic Trend Visualization
-
-<img src="screenshots/Network%20Traffic%20Trend%20Visualization.png" width="1000">
 
 ---
 
