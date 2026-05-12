@@ -163,7 +163,6 @@ Statistical analysis of security events
 
 ---
 
-
 **Threat Simulation**
 Kali Linux Nmap Enumeration Against Windows Host
 Kali Linux to Windows Host Connectivity Verification
